@@ -1,8 +1,11 @@
 # Walkup 🚶‍♂️⏰
 ### Walk to Wake Up.
-<img width="450" height="450" alt="Screenshot_20261019_220940_walkup" src="https://github.com/user-attachments/assets/ac15f1ef-924a-4138-b2b9-27f62864d005" />
-<img width="450" height="450" alt="Screenshot_20261019_220934_walkup" src="https://github.com/user-attachments/assets/6b17e2f0-cdad-4192-a380-64d855bc87b5" />
-<img width="450" height="450" alt="Screenshot_20261019_220850_walkup" src="https://github.com/user-attachments/assets/77095f8e-1668-4fc7-b098-2db85f037515" />
+
+<p align="center">
+  <img width="30%" src="https://github.com/user-attachments/assets/ac15f1ef-924a-4138-b2b9-27f62864d005" alt="Walkup screenshot 1" />
+  <img width="30%" src="https://github.com/user-attachments/assets/6b17e2f0-cdad-4192-a380-64d855bc87b5" alt="Walkup screenshot 2" />
+  <img width="30%" src="https://github.com/user-attachments/assets/77095f8e-1668-4fc7-b098-2db85f037515" alt="Walkup screenshot 3" />
+</p>
 
 Waking up sounds easy. Your alarm rings, you turn it off, and you get on with your day.
 
